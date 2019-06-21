@@ -2,7 +2,7 @@ public class Foo {
   // Fields
   private String name;
   
-  public Foo(){
+  public Foo(int a){
   }
   
   public String getName(){
